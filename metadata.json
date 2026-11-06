@@ -1,0 +1,6 @@
+{
+  "name": "الأذكار",
+  "description": "تطبيق الأذكار الذكي للأذكار اليومية (الصباح، المساء، النوم)، وبناء الورد الخاص، ونظام أيام الحماس والتجميد والشارات التحفيزية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
